@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF722&center=true&vCenter=true&random=false&width=1000&lines=Hi+There%2C+I+am+React+Native+developer.;I+have+been+working+for+the+last+2+years+as+a+software+engineer.;Proficient+in+JavaScript+and+Typescript;Building+cross-platform+applications+that+marry+functionality+with+aesthetics.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="./react-native.gif" alt="React Native" />
-</p>
 
 <p align="center">
  I thrive at the intersection of creativity and technology as a Full-Stack Developer. With a comprehensive skill set spanning both front-end and back-end technologies, I specialize in building robust web applications that deliver exceptional user experiences. My expertise in JavaScript, TypeScript, and frameworks like React and Node.js empowers me to create seamless, efficient applications that meet user needs.
