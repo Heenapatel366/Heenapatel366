@@ -27,8 +27,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+"“Start with something simple and small, then expand over time. If people call it a 'toy' you're definitely onto something."
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
@@ -40,8 +39,6 @@
   </h2>
 
   <div align="center"> 
-    <a href="mailto:kumarkhaniya1236@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-    &nbsp;&nbsp;
-    <a href="https://bhavesh-kumarkhaniya.netlify.app/" target="_blank"><img src="https://www.freeiconspng.com/uploads/website-icon-11.png" width="40"/></a>
-  </div>
+    <a href="mailto:heenapatel366@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   </div>
 </div>
